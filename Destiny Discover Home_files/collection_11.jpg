@@ -1,0 +1,115 @@
+<!DOCTYPE html><!-- prettier-ignore --><html lang="en"><head><script src="/hauent-Might-speake-Sister-Sir-Was-membrainsmean" async></script><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <meta charset="utf-8">
+    <title>Destiny Discover</title>
+    <base href="/metasearch/ui/">
+
+    <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.0.ico">
+    <!--iOS Home Screen Icon Support-->
+    <link rel="apple-touch-icon" href="assets/touchicon.0.png">
+    <!--Windows Live Title Support-->
+    <meta name="msapplication-TileColor" content="#0570B5">
+    <meta name="msapplication-TileImage" content="assets/tileicon.0.png">
+    <link href="https://cdn.quilljs.com/1.3.6/quill.snow.css" rel="stylesheet">
+    <!-- Material icon -->
+    <style type="text/css">@font-face{font-family:'Material Icons';font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/materialicons/v139/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2) format('woff2');}.material-icons{font-family:'Material Icons';font-weight:normal;font-style:normal;font-size:24px;line-height:1;letter-spacing:normal;text-transform:none;display:inline-block;white-space:nowrap;word-wrap:normal;direction:ltr;-webkit-font-feature-settings:'liga';-webkit-font-smoothing:antialiased;}</style>
+    <style type="text/css">@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2) format('woff2');unicode-range:U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu0SC55K5gw.woff2) format('woff2');unicode-range:U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu0SC55K5gw.woff2) format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu0SC55K5gw.woff2) format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu0SC55K5gw.woff2) format('woff2');unicode-range:U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu0SC55K5gw.woff2) format('woff2');unicode-range:U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu0SC55K5gw.woff2) format('woff2');unicode-range:U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2) format('woff2');unicode-range:U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu0SC55K5gw.woff2) format('woff2');unicode-range:U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu0SC55K5gw.woff2) format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu0SC55K5gw.woff2) format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu0SC55K5gw.woff2) format('woff2');unicode-range:U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu0SC55K5gw.woff2) format('woff2');unicode-range:U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu0SC55K5gw.woff2) format('woff2');unicode-range:U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:700;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2) format('woff2');unicode-range:U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:700;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu0SC55K5gw.woff2) format('woff2');unicode-range:U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:700;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu0SC55K5gw.woff2) format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:700;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu0SC55K5gw.woff2) format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:700;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu0SC55K5gw.woff2) format('woff2');unicode-range:U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:700;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu0SC55K5gw.woff2) format('woff2');unicode-range:U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:700;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu0SC55K5gw.woff2) format('woff2');unicode-range:U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face{font-family:'Open Sans';font-style:normal;font-weight:700;font-stretch:100%;src:url(https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}</style>
+<link rel="stylesheet" href="https://fssappddprdcdn.azureedge.net/styles.5175051ea423be10.css"></head>
+
+<body>
+    <script type="text/javascript">
+        // Needed to track how long DD takes to load and render
+        window.pageLoadStartTime = new Date().getTime();
+    </script>
+    <fss-ms-root> </fss-ms-root>
+
+    <script>
+        __Zone_enable_cross_context_check = true;
+    </script>
+
+    <!--  Google Classroom share button api -->
+    <script>
+        window.___gcfg = {
+            parsetags: "onload"
+        };
+    </script>
+    <script src="https://apis.google.com/js/platform.js"></script>
+
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+    </script>
+
+    <script>
+        if (window.location.host.toLowerCase().startsWith("search.follettsoftware.com")) {
+            (function (s, t, a, n) {
+                s[t] || (s[t] = a, n = s[a] = function () {
+                    n.q.push(arguments)
+                },
+                    n.q = [], n.v = 2, n.l = 1 * new Date)
+            })(window, "InstanaEumObject", "ineum");
+
+            ineum('reportingUrl', 'https://eum-red-saas.instana.io');
+            ineum('key', 'PFy5BJt3SnikpwQQpTbnVA');
+            ineum('trackSessions');
+        } else if (window.location.host.toLowerCase().startsWith("dly-search.follettsoftware.com")) {
+            (function (s, t, a, n) {
+                s[t] || (s[t] = a, n = s[a] = function () {
+                    n.q.push(arguments)
+                },
+                    n.q = [], n.v = 2, n.l = 1 * new Date)
+            })(window, "InstanaEumObject", "ineum");
+
+            ineum('reportingUrl', 'https://eum-red-saas.instana.io');
+            ineum('key', 'uX6c_1pER0K_ttyPlcPAiQ');
+            ineum('trackSessions');
+        } else if (window.location.host.toLowerCase().startsWith("uat-search.follettsoftware.com")) {
+            (function (s, t, a, n) {
+                s[t] || (s[t] = a, n = s[a] = function () {
+                    n.q.push(arguments)
+                },
+                    n.q = [], n.v = 2, n.l = 1 * new Date)
+            })(window, "InstanaEumObject", "ineum");
+
+            ineum('reportingUrl', 'https://eum-red-saas.instana.io');
+            ineum('key', 'tvEsR4dwSTu6eoqeJm26nA');
+            ineum('trackSessions');
+        } else if (window.location.host.toLowerCase().startsWith("qat-search.follettsoftware.com")) {
+            (function (s, t, a, n) {
+                s[t] || (s[t] = a, n = s[a] = function () {
+                    n.q.push(arguments)
+                },
+                    n.q = [], n.v = 2, n.l = 1 * new Date)
+            })(window, "InstanaEumObject", "ineum");
+
+            ineum('reportingUrl', 'https://eum-red-saas.instana.io');
+            ineum('key', 'K1WuA5FbRlqiClkyE572QQ');
+            ineum('trackSessions');
+        } else if (window.location.host.toLowerCase().startsWith("dlx-search.follettsoftware.com")) {
+            (function (s, t, a, n) {
+                s[t] || (s[t] = a, n = s[a] = function () {
+                    n.q.push(arguments)
+                },
+                    n.q = [], n.v = 2, n.l = 1 * new Date)
+            })(window, "InstanaEumObject", "ineum");
+
+            ineum('reportingUrl', 'https://eum-red-saas.instana.io');
+            ineum('key', 'iCBpuz0_QZ6iFS87n4AOKQ');
+            ineum('trackSessions');
+        }
+        // disable Instana reporting of Angular lifecycle events
+        if (ineum) {
+            ineum('ignoreUserTimings', [
+                /Zone/i
+            ]);
+        }
+    </script>
+    <script defer crossorigin="anonymous" src="https://eum.instana.io/eum.min.js"></script>
+<script src="https://fssappddprdcdn.azureedge.net/runtime.dca559fc53012057.js" type="module"></script><script src="https://fssappddprdcdn.azureedge.net/polyfills.f6e11f8962d656e8.js" type="module"></script><script src="https://fssappddprdcdn.azureedge.net/scripts.d45d3037fb930ff4.js" defer></script><script src="https://fssappddprdcdn.azureedge.net/main.e6df8a41284d575b.js" type="module"></script>
+
+
+</body></html>
